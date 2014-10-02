@@ -18,3 +18,4 @@ libtool
 tags
 *.plist
 .deps
+.env
